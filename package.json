@@ -1,0 +1,24 @@
+{
+  "name": "sed_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierbeltran425/sed_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierbeltran425/sed_api/issues"
+  },
+  "homepage": "https://github.com/javierbeltran425/sed_api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^6.0.13",
+    "xpress": "^2.4.6"
+  }
+}
